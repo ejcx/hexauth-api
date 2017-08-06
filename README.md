@@ -1,5 +1,5 @@
-# hexwatch
-Welcome to Hexwatch! Get familiar with all things hexwatch.
+# hexauth
+Welcome to Hexauth! Get familiar with all things hexauth.
 
 # Table of Contents
 1. [protocol](#protocol)
